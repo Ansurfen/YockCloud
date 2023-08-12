@@ -1,0 +1,1 @@
+sh("go build -o mysql.dll -buildmode=c-shared main.go")

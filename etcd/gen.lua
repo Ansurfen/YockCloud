@@ -1,0 +1,1 @@
+sh("go build -o etcd.dll -buildmode=c-shared main.go")

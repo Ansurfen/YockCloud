@@ -1,0 +1,1 @@
+sh("go build -o redis.dll -buildmode=c-shared main.go")
